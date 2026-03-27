@@ -228,4 +228,4 @@ if __name__ == "__main__":
 # closed, and how many open ports have known or unknown services.
 # It would use a nested if-statement: the outer if checks if the port
 # is open, and the inner if checks if the service is known or unknown.
-# Diagram: See diagram_studentID.png in the repository root
+# Diagram: See diagram_101462079.png in the repository root
